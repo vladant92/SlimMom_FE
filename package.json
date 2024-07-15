@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Frontend for final individual project",
   "private": true,
-  "homepage": "https://vladant92.github.io/Slim_Mom_FE/",
+  "homepage": "https://vladant92.github.io/SlimMom_FE/",
   "dependencies": {
     "@hookform/error-message": "^2.0.0",
     "@reduxjs/toolkit": "^1.8.5",
